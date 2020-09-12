@@ -2,7 +2,7 @@
 
 @section('content')
 <section class="content">
-<label for="exampleInputFile">Store Details</label>
+<label for="exampleInputFile">File Details</label>
 
 @if ($errors->any())
     <div class="alert alert-success">
@@ -43,12 +43,6 @@
                 @endforeach
                 </tbody>
                 <tfoot>
-                <tr>
-                  <th>id</th>
-                  <th>Name</th>
-                  <th>File Name</th>
-                  <th>Action</th>
-                </tr>
                 </tfoot>
               </table>
             </div>

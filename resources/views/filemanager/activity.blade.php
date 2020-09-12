@@ -32,13 +32,6 @@
                 </tbody>
                 <tfoot>
                 <tr>
-                <tr>
-                  <th>id</th>
-                  <th>date</th>
-                  <th>Activity</th>
-                  <th>Done by</th>
-                </tr>
-                </tr>
                 </tfoot>
               </table>
             </div>

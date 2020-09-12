@@ -49,9 +49,9 @@
     <!-- Logo -->
     <a href="index2.html" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>V</b>DB</span>
+      <span class="logo-mini"><b>F</b>M</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Volusion</b> DB - Backup</span>
+      <span class="logo-lg"><b>File</b> Manager</span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top">

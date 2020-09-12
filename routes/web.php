@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'FilemanagerController@filemanagement')->name('home');
 Route::get('/filemanagement', 'FilemanagerController@filemanagement')->name('filemanagement');
 Route::get('/uploadfiles', 'FilemanagerController@uploadfiles')->name('uploadfiles');
 Route::post('/storedata', 'FilemanagerController@storedata')->name('storedata');

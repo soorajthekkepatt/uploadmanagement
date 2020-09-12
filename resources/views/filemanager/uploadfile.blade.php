@@ -35,8 +35,6 @@
               </div>
                   <label for="exampleInputFile">File input</label>
                   <input type="file" name="uploadfilename" id="exampleInputFile">
-
-                  <p class="help-block">Example block-level help text here.</p>
                 </div>
 
             </div>
